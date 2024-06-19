@@ -1,4 +1,5 @@
-![Linkedin Badge](https://img.shields.io/badge/-damien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-f-8b430489/)
+![Linkedin Badge](https://img.shields.io/badge/-Damien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-f-8b430489/)
+![Gmail Badge](https://img.shields.io/badge/-Mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.faucherand@dfm-consulting.fr)
 
 # 🚀💻 Technologies & Tools
 
