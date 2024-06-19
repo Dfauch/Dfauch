@@ -7,8 +7,6 @@
 
 >![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)| ![SQL](https://img.shields.io/badge/-SQL-white?style=flat-square&logo=SQL)| **DAX**
 
-**Libraries**
-
 > [**Pandas**](https://pandas.pydata.org/) | [**NumPy**](https://numpy.org/) | [**Matplotlib**](https://matplotlib.org/)
 
 **Business Intelligence Tools**
@@ -21,7 +19,7 @@
 
 **Database**
 
-> ![GoogleBigQuery](https://img.shields.io/badge/-GoogleBigQuery-white?style=flat-square&logo=googlebigquery)
+> [**Google BigQuery**](https://cloud.google.com/)
 
 **Projets**
 
