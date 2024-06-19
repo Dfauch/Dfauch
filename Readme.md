@@ -1,17 +1,24 @@
-### Skills 👨🏻‍💻
 
-[](https://github.com/dfauch#-skills--)
+**Language**
 
-**Workflow**
+>[**Python**](https://www.python.org/) | **SQL** | **DAX**
 
-> Exploratory Data Analysis, Data Cleaning, Data Preprocessing and Data Visualization using Python.
+**Libraries**
 
-> [**Python**](https://www.python.org/) Libraries: [**Pandas**](https://pandas.pydata.org/), [**NumPy**](https://numpy.org/), [**Matplotlib**](https://matplotlib.org/), [**Seaborn**](https://seaborn.pydata.org/), [**Plotly**](https://plotly.com/), [**Bokeh**](https://bokeh.org/) and [**Scikit Learn**](https://scikit-learn.org/).
+> [**Pandas**](https://pandas.pydata.org/) | [**NumPy**](https://numpy.org/) | [**Matplotlib**](https://matplotlib.org/)
 
-> Business Intelligence Tools: [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [**Data Analysis Expressions**](https://docs.microsoft.com/en-us/dax/) and [**Google Data Studio**](https://datastudio.google.com/).
+**Business Intelligence Tools**
 
-> Excel Analytics: **Power Pivot** and **Power Query**.
+> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/) 
 
-> Data: [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
+**Environment**
 
-> Website Design and Development: HTML, CSS, JavaScript, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/).
+> [**Anaconda**](https://www.anaconda.com/) | [**Jupyter**](https://jupyter.org/) | [**Microsoft Visual Studio Code**](https://code.visualstudio.com/)
+
+**Database**
+
+> [**Google BigQuery**](https://cloud.google.com/)
+
+**Projets**
+
+> [**Github**](https://github.com/)
