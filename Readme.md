@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-damien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-f-8b430489/)
+
 # 🚀💻 Technologies & Tools
 
 **Language**
