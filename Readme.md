@@ -5,7 +5,7 @@
 
 **Language**
 
->![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)[](https://www.python.org/) | **SQL** | **DAX**
+>![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)[link](https://www.python.org/) | **SQL** | **DAX**
 
 **Libraries**
 
