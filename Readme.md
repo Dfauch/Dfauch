@@ -21,7 +21,7 @@
 
 **Database**
 
-> [**Google BigQuery**](https://cloud.google.com/)
+> ![GoogleBigQuery](https://img.shields.io/badge/-GoogleBigQuery-white?style=flat-square&logo=googlebigquery)
 
 **Projets**
 
