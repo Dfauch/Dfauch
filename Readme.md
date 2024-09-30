@@ -3,8 +3,7 @@ En tant que Responsable de la Performance, j’ai développé et mis en place de
 
 Pour valider mes compétences et en acquérir de nouvelles **(Python, SQL, PowerBI, etc.)**, j’ai suivi une formation en Intelligence Artificielle et Analyse Big Data, spécialisée en data analyse.
 
-Je souhaite maintenant utiliser cette double expertise pour contribuer à des projets innovants dans le domaine de la data. Je suis passionné(e) par l’idée de transformer les données en informations exploitables pour aider les entreprises à atteindre leurs objectifs. Je suis particulièrement intéressé(e) par les opportunités qui me permettront de contribuer à des projets innovants et de travailler avec des équipes dynamiques.
-
+Je souhaite maintenant utiliser cette double expertise pour contribuer à des projets innovants dans le domaine de la data. Je suis passionné(e) par l’idée de transformer les données en informations exploitables pour aider les entreprises à atteindre leurs objectifs.
 
 ![Linkedin Badge](https://img.shields.io/badge/-Damien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-f-8b430489/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.faucherand@dfm-consulting.fr)](mailto:d.faucherand@dfm-consulting.fr)
